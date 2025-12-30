@@ -241,7 +241,7 @@ styles/
 
 ```json
 {
-  "name": "my-v0-project",
+  "name": "threadmill",
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",

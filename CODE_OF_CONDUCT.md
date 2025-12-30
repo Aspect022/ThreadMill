@@ -69,7 +69,7 @@ or acting as an appointed representative at an online or offline event.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the project maintainers responsible for enforcement at:
 
-**[INSERT CONTACT EMAIL]** (e.g., conduct@threadmill.education)
+**conduct@threadmill.education** or through [GitHub Issues](https://github.com/Aspect022/ThreadMill/issues)
 
 All complaints will be reviewed and investigated promptly and fairly.
 
