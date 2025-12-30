@@ -235,7 +235,6 @@ export async function myAction() {
 - 🤝 [Contributing Guide](CONTRIBUTING.md)
 - 🐛 [Report Issues](https://github.com/Aspect022/ThreadMill/issues)
 - 💬 [Ask Questions](https://github.com/Aspect022/ThreadMill/discussions)
-- 📧 Email: support@threadmill.education (if applicable)
 
 ## Deployment (Optional)
 

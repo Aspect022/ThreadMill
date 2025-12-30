@@ -301,7 +301,6 @@ Found a security vulnerability? Please read our [SECURITY.md](SECURITY.md) for r
 
 - **Issues**: [GitHub Issues](https://github.com/Aspect022/ThreadMill/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/Aspect022/ThreadMill/discussions)
-- **Email**: support@threadmill.education (if applicable)
 
 ## 🗺️ Roadmap
 

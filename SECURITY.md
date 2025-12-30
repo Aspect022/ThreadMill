@@ -21,9 +21,9 @@ We release patches for security vulnerabilities in the following versions:
 
 If you discover a security vulnerability, please follow these steps:
 
-### 1. Report via Email
+### 1. Report via Email or GitHub
 
-Send details to: **[security@threadmill.education]** or create a private security advisory on GitHub.
+**Preferred Method**: Create a private security advisory on GitHub (recommended)
 
 To create a private security advisory:
 1. Go to the [Security tab](https://github.com/Aspect022/ThreadMill/security) of this repository
@@ -227,8 +227,8 @@ Security researchers who responsibly disclose vulnerabilities will be acknowledg
 
 For security-related questions or concerns:
 
-- **Email**: security@threadmill.education (if available)
-- **GitHub Security Advisories**: [Report a vulnerability](https://github.com/Aspect022/ThreadMill/security/advisories/new)
+- **GitHub Security Advisories**: [Report a vulnerability](https://github.com/Aspect022/ThreadMill/security/advisories/new) (Primary method)
+- **Email**: For established projects, set up security@threadmill.education
 
 For general support:
 - **Issues**: [GitHub Issues](https://github.com/Aspect022/ThreadMill/issues)
