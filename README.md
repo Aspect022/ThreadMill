@@ -265,6 +265,18 @@ Currently, the project focuses on development and user experience. Testing infra
 - **E2E Tests**: Playwright or Cypress
 - **Component Tests**: Storybook
 
+## 📚 Documentation
+
+Comprehensive documentation is available to help you get started and contribute:
+
+- **[Quick Start Guide](QUICK_START.md)** - Get up and running in 5 minutes
+- **[Documentation Index](DOCUMENTATION.md)** - Complete documentation guide
+- **[Contributing Guide](CONTRIBUTING.md)** - How to contribute to the project
+- **[Project Structure](PROJECT_STRUCTURE.md)** - Detailed code organization
+- **[Security Policy](SECURITY.md)** - Security and vulnerability reporting
+- **[Code of Conduct](CODE_OF_CONDUCT.md)** - Community guidelines
+- **[Changelog](CHANGELOG.md)** - Version history and updates
+
 ## 🤝 Contributing
 
 We welcome contributions from the community! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute.
